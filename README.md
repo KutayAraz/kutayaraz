@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Kutay 👋
 
-<!--
-**KutayAraz/kutayaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with TypeScript experience across Vue, React, Next.js and NestJS.
+Most recently I built AI features (a Claude-powered assistant and plain-language workflow automation)
+for an inventory planning SaaS, and before that real-time AR video collaboration over WebRTC.
 
-Here are some ideas to get you started:
+**Featured project:** [Electrozone](https://electrozone.netlify.app), a full-stack e-commerce platform
+built with React, Redux Toolkit/RTK Query and NestJS, with Redis caching, transactional checkout,
+and Vitest/Playwright tests. ([frontend](https://github.com/KutayAraz/electrozone-client) ·
+[backend](https://github.com/KutayAraz/electrozone-server))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** TypeScript · React · Next.js · Vue 3 · Node.js · NestJS · PostgreSQL · MySQL · Redis · Docker
+
+📫 [LinkedIn](https://www.linkedin.com/in/kutayaraz/) · kutayaraz@gmail.com
